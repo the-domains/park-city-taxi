@@ -1,0 +1,23 @@
+typography_spectrum: 0.44160365476273
+color:
+  brandStrength: 0.8689169511198997
+  lightness: 0.6002100529149175
+  saturation: 0.925611502956599
+  rhythmicContrast: 0.6996613240335137
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+github: true
+opengraph:
+  appId: 'https://www.facebook.com/ParkCityTaxi/'
+layout_spectrum: 0.046661549247801304
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cdaa958-bc93-4ba4-bf90-c54ba4c61e33.png
+name: Park City Taxi
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0d40e1-2878-46da-9b2d-70e8205fbeba.png
+title: Park City Transportation Pros
+description: You are the boss
